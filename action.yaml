@@ -1,5 +1,5 @@
-name: Tweeter Action
-author: devigned
+name: Tweeter Action (sgosiaco)
+author: sgosiaco
 description: Simple action to send a tweet via an GitHub Action.
 inputs:
   message:
